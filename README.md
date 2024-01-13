@@ -22,7 +22,7 @@ The Quantum Sensing Apparatus Interface is a GUI application developed to stream
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/quantum-sensing-interface.git
+    git clone https://github.com/Aryan-xo/quantum-sensing-interface.git
     ```
 
 2. Change into the project directory:
@@ -49,17 +49,3 @@ The Quantum Sensing Apparatus Interface is a GUI application developed to stream
 - Implement data acquisition from actual sensors.
 - Enhance the GUI for a more user-friendly experience.
 - Integrate the GUI code with the existing codebase.
-
-## Contributing
-
-If you'd like to contribute to the project, please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch for your feature or bug fix.
-3. Make changes and commit them.
-4. Push your changes to your fork.
-5. Submit a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
